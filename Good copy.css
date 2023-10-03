@@ -1,0 +1,5 @@
+body { 
+  background: linear-gradient(aqua, blue); 
+  background-repeat: no-repeat;
+  height: 4200px; 
+}
