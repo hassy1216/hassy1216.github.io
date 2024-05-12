@@ -1,0 +1,5 @@
+body { 
+  background: linear-gradient(green, brown); 
+  background-repeat: no-repeat;
+  height: 1500px; 
+}
